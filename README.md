@@ -1,4 +1,7 @@
-# prueba-tecnica-nexos-backend
+# Aplicación de microservicios para un restaurante
+Autor: Julián Alejandro Mora Londoño
+
+Tipo: Aplicación de JAVA con Spring Boot 
 
 # Pasos para el despliegue de la aplicación en ambiente local
 
