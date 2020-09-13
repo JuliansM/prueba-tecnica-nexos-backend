@@ -2,9 +2,7 @@ package com.nexos.demo.controllers;
 
 import com.nexos.demo.facades.FacturaFacade;
 import com.nexos.demo.models.dto.FacturaDTO;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
