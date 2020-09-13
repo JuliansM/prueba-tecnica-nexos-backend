@@ -6,7 +6,7 @@ Tipo: Aplicación de JAVA con Spring Boot
 # Pasos para el despliegue de la aplicación en ambiente local
 
 ## Configuración base de datos postgresql
-1- Crear base de datos
+1- Crear base de datos usando el motor de base de datos postgresql
 
 ## Datos de configuración
 NOMBRE BD: restaurante
@@ -16,6 +16,9 @@ PUERTO BD: 5432 (Puerto por defecto)
 USUARIO BD: postgres
 
 CONTRASEÑA BD: root
+
+## Ejecutar script de migración sql en la base de datos creada
+El script sql se encuentra en la siguiente ruta del proyecto: "scripts/script-db-restaurante.sql"
 
 ## Compilar proyecto
 Pararse en la raíz del proyecto y ejecutar el siguiente comando en consola:
