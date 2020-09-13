@@ -29,6 +29,10 @@ Ejecutar el siguiente comando en la consola:
 
 java -Duser.timezone=GMT -jar demo-0.0.1-SNAPSHOT.jar
 
+## Pruebas con swagger
+Una vez ejecutándose la aplicación, puede navegar a
+http://127.0.0.1:8080/swagger-ui.html para realizar pruebas de los microservicios con swagger.
+
 
 
 
